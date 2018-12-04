@@ -1,0 +1,37 @@
+.padpush{
+	padding-bottom: 30px;
+}
+
+.forgotPass{
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+.forgotPass:hover{
+	color: #ff4e00;
+	letter-spacing: 1px;
+}
+
+.regnow{
+	padding-top: 20px;
+	padding-bottom: 15px;
+	color: #ff4e00;
+	letter-spacing: 1px;
+}
+
+.regnow:hover{
+	color: #ff4e00;
+	letter-spacing: 1px;
+}
+
+.loginB{
+	padding-top: 30px;
+	padding-bottom: 15px;
+	color: #ff4e00;
+	letter-spacing: 1px;
+}
+
+.loginB:hover{
+	color: #ff4e00;
+	letter-spacing: 1px;
+}

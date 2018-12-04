@@ -1,0 +1,19 @@
+____color scheme used____ 
+*** red = #800020 ***
+*** gold = #ff4e00 ***
+*** black = #000000 ***
+__________________________
+
+__________image resolution_________
+*** carusole images *****
+** Dimensions 1680 x 800 **
+** Width 1680px **
+** Height 800px **
+** Horizontal Resoultion 96 dpi **
+** Vertical Resoultion 96 dpi **
+** Bit depth 24 **
+** File format JPG **
+
+*** TWO by side pic *****
+** Dimensions 668 x 318 **
+___________________________________
