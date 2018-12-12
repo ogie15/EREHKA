@@ -22,6 +22,7 @@
 	<link href="<?php echo(base_url()); ?>assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<link href="<?php echo(base_url()); ?>assets/css/login_overlay.css" rel='stylesheet' type='text/css' />
 	<link href="<?php echo(base_url()); ?>assets/css/style6.css" rel='stylesheet' type='text/css' />
+	<link href="<?php echo(base_url()); ?>assets/css/contact.css" rel='stylesheet' type='text/css' />
 	<link rel="stylesheet" href="<?php echo(base_url()); ?>assets/css/shop.css" type="text/css" />
 	<link rel="stylesheet" href="<?php echo(base_url()); ?>assets/css/owl.carousel.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo(base_url()); ?>assets/css/owl.theme.css" type="text/css" media="all">
@@ -207,7 +208,7 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav nav-mega mx-auto">
 						<li class="nav-item active">
-							<a class="nav-link ml-lg-0" href="index.html">Home
+							<a class="nav-link ml-lg-0" href="<?php echo(base_url());?>/Shop/index">Home
 								<span class="sr-only">(current)</span>
 							</a>
 						</li>
@@ -365,7 +366,7 @@
 							</ul>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">Contact</a>
+							<a class="nav-link" href="<?php echo(base_url());?>/Shop/contact">Contact</a>
 						</li>
 					</ul>
                
